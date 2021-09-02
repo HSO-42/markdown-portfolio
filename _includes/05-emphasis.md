@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+* _Well hopefully this list will expand in the future_
+  - A beginners knowledge of **Python**
+  - The **will** to **learn**
+  - *A hope and a prayer* 😅
+  
